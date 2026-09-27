@@ -4,4 +4,6 @@ int main()
 {
     // @TODO: print a sentence you want.
     printf("Hello, world!\n");
+    printf("Practice makes perfect!\n");
+    printf("This is feature's modifacation.\n")
 }
